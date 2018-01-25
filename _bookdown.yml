@@ -1,4 +1,5 @@
-book_filename: "bookdownFirst"
+book_filename: "bookdownlocal"
+delete_merged_file: true
 language:
   ui:
     chapter_name: "Chapter "
